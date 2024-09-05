@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'mdrd': Multidimensional Regression Discontinuity (MDRD) Use mdrd With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ddbwsel.ado
+f ddbwsel.sthlp
+f kconst.ado
+f kweight.mo
+f mdist.ado
+f mdrd.ado
+f mdrd.sthlp
+f rdcorr.ado
+f rdvcew.mo
+f rdvcew2.mo
+f regconst.mo
