@@ -1,6 +1,8 @@
 # mdrd
 Multidimensional Regression Discontinuity (MDRD) Use mdrd With STATA 18
 
+Multi and Unidimensional Regression-Discontinuity and Difference-in-Discontinuity Use mdrd With STATA 18
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
